@@ -38,6 +38,15 @@ All the BDD have not been automated, as my purpose was to prove automation
 2. create customer entry -- Implemented
 3. delete customer entry -- Implemented
 4. delete a customer entry -- Not Implemented
-5. field validation for hotel creation form -- Not Implemented
-6. field validation for customer form -- Not Implemented
-7. search functionality -- Not Implemented
+5. For multiple entry or multiplerecord creation for hotelor customer we can use same test with multiplerecord i.e Example data
+6. field validation for hotel creation form -- Not Implemented
+7. field validation for customer form -- Not Implemented
+8. search functionality -- Not Implemented
+
+
+# How to view execution report
+
+* Once execution is successful. Navigate to the root folder of the framework.
+* Navigate to /target/site/serenity/index.html
+* This reportcan be viewed in any browser.
+* This report can be integrated with any CI tool.
